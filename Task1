@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Apollo Hospitals</title>
+    </head>
+    <body>
+        <hr>
+        <header>
+            <h1>
+                <center>
+                    <font color="orange">
+                        Apollo Hospitals
+                    </font>
+                </center>
+        </header>
+        <hr>
+        <h3>
+            <font color="red">
+                <u>About Apollo:</u>
+            </font>
+        </h3>
+        <p>
+            <font size="5px"></font>
+            Apollo Hospitals Enterprise Limited is an indian multinational healthcare group headquatered in chennai.
+             It is the largest hospitals chain in india,with a network of 71 owned and managed hospitals.  
+        </p>
+        <h3>
+            <font color="red">
+                <u>Branches in Hyd:</u>
+            </font>
+        </h3>
+        <p>
+            <font size="5px"></font>
+            <ol>
+                <li>Jublihills</li>
+                <li>Secundrabad</li>
+                <li>Hydergudu</li>
+            </ol>
+        </p>
+        <h3>
+            <font color="red">
+                <u>Apollo Services:</u>
+            </font>
+        </h3>
+        <p>
+            <font size="5px"></font>
+            <ul>
+                <li>Robotic Surgery</li>
+                <li>Apollo Eye</li>
+                <li>Apollo ENT</li>
+            </ul>
+        </p>
+        <h3>
+            <font color="red">
+                <u>Contact Us:</u>
+            </font>
+        </h3>
+        <p>
+            <font size="5px"></font>
+            <b>Address:</b> <i>FLIM NAGAR,HYDERABAD,TELANGANA 500096</i>
+        </p>
+        
+        <br><br>
+        <hr>
+        <footer>
+            <h4>
+                <center>
+                    <font color="blue">
+                        copyright@360Digrii
+                    </font>
+                </center>
+            </h4>
+        </footer>
+        <hr>
+    </body>
+</html>
