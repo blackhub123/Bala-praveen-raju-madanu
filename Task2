@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>360Digrii</title>
+    </head>
+    <hr>
+    <body>
+        <header>
+            <center>
+                <img src="360Digrii.png" alt="image was deleted">
+            </center>
+        </header>
+        <hr>
+        <h3>
+            <font color="orange">
+                <u>Follow Us:</u>
+            </font>
+         </h3>
+         <center>
+            <img width="130px" height="130px" src="download.png" alt="image was deleted"> &nbsp;&nbsp;
+            <img width="130px" height="130px" src="Logo_of_Twitter.svg.png" alt="image was deleted"> &nbsp;&nbsp;
+            <img width="130px" height="130px" src="png-clipart-computer-icons-sticker-instagram-text-trademark.png" alt="image was deleted">&nbsp;&nbsp;
+            <img width="130px" height="130px" src="LinkedIn_icon_circle.svg.png" alt="image was deleted">&nbsp;&nbsp;
+         </center>
+         <br>
+         <hr>
+         <footer>
+            <h3>
+                <font color="orange">
+                    <u>Our Clients:</u>
+                </font>
+            </h3>
+            <p>
+                <h2>
+                <center>
+                    <font color="blue">
+                    tcs &nbsp;&nbsp;&nbsp;&nbsp; ibm &nbsp;&nbsp;&nbsp;&nbsp; hcl &nbsp;&nbsp;&nbsp;&nbsp; oracle &nbsp;&nbsp;&nbsp;&nbsp;
+                    </font>
+                </center>
+                 </h2>
+            </p>
+         </footer>
+         <hr>
+    </body>
+
+</html>
